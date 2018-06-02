@@ -1,6 +1,6 @@
 # Getting and Cleaning Data - Course Project
 
-##Overview 
+## Overview 
 
 The purpose of this project is to demonstrate me ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. This project required me to prepare: 
 
@@ -9,7 +9,7 @@ The purpose of this project is to demonstrate me ability to collect, work with, 
 3.  A code book (CodeBook.md) that describes the variables, the data, and any transformations or work performed
 4.  A README.md which explains how all of the scripts work and how they are connected.
 
-##Original Dataset 
+## Original Dataset 
 
 One of the most exciting areas in all of data science right now is wearable computing - see for example this article . Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
 
@@ -20,7 +20,7 @@ Here are the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 
-##Analysis leading to tidy dataset 
+## Analysis leading to tidy dataset 
 
 A single script called run_analysis.R was created to process the provided data into a tidy data set.  The script performed the steps outlined below.
 
